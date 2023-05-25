@@ -33,11 +33,11 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/TerminalWarlord/subtitle-downloader-bot.svg?style=social&label=Star)](https://github.com/TerminalWarlord/GoGoAnime-API) ![GitHub followers](https://img.shields.io/github/followers/TerminalWarlord.svg?style=social&label=Follow)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/JayBeeBots)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TerminalWarlord/Subtitle-Downloader-Bot)
+[![Telegram bot ](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/otaboyev_sardorbek_bot)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/otaboyevsardorbek1/Subtitle-Downloader-Bot)
 
 ---
 ### Star the Repo if you find it useful :heart:
-### © [JayBee](https://t.me/JayBeeBots)
+### © [otaboyev sardorbek](https://t.me/otaboyev_sardorbek_bot)
 #### All Rights Reserved
 ---
